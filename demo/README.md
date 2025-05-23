@@ -31,18 +31,19 @@ pip install -r requirements.txt
 - Download the pretrained model weights from this Google Drive link : https://drive.google.com/drive/folders/1U37T78977ZUBJOwRZ0F6SETx0FEMpgqV?usp=sharing
 - Once downloaded, place the files in the following structure:
 ```
-├── demo/
-│   ├── app.py
-│   └── demo_images/
-│       ├── map/
-│       └── anime/
+demo/
+├── app.py
+├── demo_images/
+│   ├── map/
+│   └── anime/
 ├── models/
 │   ├── anime/
 │   │   ├── anime_generator.py
-│   │   └── Anime_gen_weights.pth.tar   <-- Place here
+│   │   └── Anime_gen_weights.pth.tar      <-- Place here
 │   └── map/
 │       ├── map_generator.py
-│       └── Map_generator_weights.pth   <-- Place here
+│       └── Map_generator_weights.pth      <-- Place here
+
 ```
 
 ### 4. Run the app
