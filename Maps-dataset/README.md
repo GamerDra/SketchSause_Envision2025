@@ -40,7 +40,7 @@ To improve training stability and potentially generate sharper outputs, the orig
 
 Below is a sample output from the model after training:
 
-![Satellite to Map Translation Result](results/result_example.png)
+![Satellite to Map Translation Result](results/1.png)
 
 
 ## 📚 References
