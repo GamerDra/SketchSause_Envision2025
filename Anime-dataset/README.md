@@ -36,3 +36,12 @@ The trained model generates visually appealing anime-style color images from sim
 ## 📚 References
 
 - Isola et al., 2017 – Pix2Pix: *Image-to-Image Translation with Conditional Adversarial Networks*
+
+## 🧑‍🏫 Mentors
+- Akshat Bharara
+- Rudra Gandhi
+
+## 🧑‍💻 Mentees/Contributors
+- Saivinathi Korukonda
+- Vivek Kashyap
+- Rushi Patel
